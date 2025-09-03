@@ -6,4 +6,4 @@ nltk==3.8.1
 gunicorn==23.0.0
 setuptools==75.1.0
 lxml_html_clean==0.2.2
-
+numpy==1.26.4
